@@ -2,3 +2,4 @@ Git Github ikincigun ilk deneme
 Git Github ikincigun ikincideneme
 Git Github ikinci gun ucuncu deneme
 Git Github ikinci gun BARİS BRANCH deneme
+Git Github ikinci gun MASTER BRANCH deneme
